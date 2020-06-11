@@ -29,7 +29,7 @@ class User {
 public class SILab2 {
     public static boolean function (User user, List<String> allUsers) {
         if (user!=null) { // A
-            if (user.getUsername()!=null && user.getEmail()!=null && allUsers.contains(user.getUsername())) { // B
+            if (user.getUsername()!=null && user.getEmail()!=null && !allUsers.contains(user.getUsername())) { // B
                 boolean atChar = false, dotChar = false; // C
                 for (int i=0;i<user.getEmail().length();i++) { // Dinit, Dcond, Dmodif
                     if (user.getEmail().charAt(i)=='@') // E
