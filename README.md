@@ -11,7 +11,7 @@
 * А - К - ЕND // кога user=null
 * A - B - K - END // кога username=null
 * A - B - C - D - Dcond - I - K - END // кога email=""
-* A - B - C - D - Dcond - E - F - G - H - Dmodif - Dcond - I - J - END // returns true сите услови се исполенти
+* A - B - C - D - Dcond - E - F - G - H - Dmodif - Dcond - I - J - END // returns true во email има и @ и . и корисникот не се содржи во листата users
 * A - B - C - D - Dcond - E - F - G - Dmodif - Dcond - I - K - END // во email нема .
 * A - B - C - D - Dcond - E - G - H - Dmodif - Dcond - I - K - END // во email нема @
 * A - B - C - D - Dcond - E - G - Dmodif - Dcond - I - K - END // во email нема ни @ ни .
