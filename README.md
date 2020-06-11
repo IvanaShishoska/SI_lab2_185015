@@ -4,7 +4,7 @@
 ## Група на код:
 #### Ја добив групата 1
 ## Contorl Flow Graph
-![Diagram] (./Untitled Diagram.jpg)
+![Diagram] (https://github.com/IvanaShishoska/SI_lab2_185015/blob/master/Untitled%20Diagram.jpg)
 ## Цикломатска комплексност
 #### Цикломатската комплексност на овој код е 7, ја добив со формулата E-N+2 каде Е е бројот на рабови N е бројот на јазли, 18-13+2=7
 ## Тест случаи според критериумот Every path
@@ -18,7 +18,7 @@
 
 
 ## Тест случаи според критериумот Multiple Condition
-#### ја разгледуваме линијата//  if (user.getUsername()!=null && user.getEmail()!=null && !allUsers.contains(user.getUsername()))
+#### ја разгледуваме линијата //  if (user.getUsername()!=null && user.getEmail()!=null && !allUsers.contains(user.getUsername()))
 * F && X && X => F username=null, email=null
 * T && F && X => F username!=null, email=null 
 * T && T && F => F username!=null, email!=null list contains user
