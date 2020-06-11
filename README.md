@@ -4,7 +4,7 @@
 ## Група на код:
 #### Ја добив групата 1
 ## Contorl Flow Graph
-![Diagram] (https://github.com/IvanaShishoska/SI_lab2_185015/blob/master/Untitled%20Diagram.jpg)
+![Diagram] (https://github.com/IvanaShishoska/SI_lab2_185015/blob/master/Untitled%20Diagram.jpg?raw=true)
 ## Цикломатска комплексност
 #### Цикломатската комплексност на овој код е 7, ја добив со формулата E-N+2 каде Е е бројот на рабови N е бројот на јазли, 18-13+2=7
 ## Тест случаи според критериумот Every path
