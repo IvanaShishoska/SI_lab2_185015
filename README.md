@@ -19,10 +19,10 @@
 
 ## Тест случаи според критериумот Multiple Condition
 #### ја разгледуваме линијата //  if (user.getUsername()!=null && user.getEmail()!=null && !allUsers.contains(user.getUsername()))
-* F && X && X => F username=null, email=null
-* T && F && X => F username!=null, email=null 
+* F && X && X => F username=null, за email и за contains било која вредност
+* T && F && X => F username!=null, email=null за contains било која вредност
 * T && T && F => F username!=null, email!=null list contains user
-* T && T && T => T username!=null, email!=null list doesnt contain user
+* T && T && T => T username!=null, email!=null list doesn't contain user
 
 
 
