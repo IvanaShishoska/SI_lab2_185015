@@ -24,6 +24,17 @@
 * T && T && F => F username!=null, email!=null list contains user
 * T && T && T => T username!=null, email!=null list doesn't contain user
 
+## Unit тестови
+#### За пишување на unit тестовите ги искористив претходно одредените тест случаи и креирав неколку users кои ги користам во тестовите
+![Diagram](https://github.com/IvanaShishoska/SI_lab2_185015/blob/master/Screenshot%20(196).png?raw=true)
+
+#### Според every path критериумот
+![Diagram](https://github.com/IvanaShishoska/SI_lab2_185015/blob/master/Screenshot%20(198).png?raw=true)
+
+#### Според multiple condition
+
+![Diagram](https://github.com/IvanaShishoska/SI_lab2_185015/blob/master/Screenshot%20(199).png?raw=true)
+
 
 
 
