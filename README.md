@@ -27,7 +27,7 @@
 ## Unit тестови
 #### За пишување на unit тестовите ги искористив претходно одредените тест случаи и креирав неколку users кои ги користам во тестовите
 ![Diagram](https://github.com/IvanaShishoska/SI_lab2_185015/blob/master/Screenshot%20(196).png?raw=true)
-#### Користев assert true затоа што функцијата треба да враќа true или false и ги користев users кои ги креирав претходно и низа од usernames која ја креирам со функција
+##### Користев assert true затоа што функцијата треба да враќа true или false и ги користев users кои ги креирав претходно и низа од usernames која ја креирам со функцијата createUserList
 #### Според every path критериумот
 ![Diagram](https://github.com/IvanaShishoska/SI_lab2_185015/blob/master/Screenshot%20(198).png?raw=true)
 
